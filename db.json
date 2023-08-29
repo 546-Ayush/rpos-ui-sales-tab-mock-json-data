@@ -13,7 +13,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm2",
@@ -28,7 +29,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm3",
@@ -43,7 +45,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm4",
@@ -58,7 +61,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm5",
@@ -73,7 +77,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm6",
@@ -88,7 +93,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm7",
@@ -103,7 +109,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm8",
@@ -118,7 +125,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm9",
@@ -133,7 +141,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       },
       {
          "table_id":"gkdjasgdkgasdkhb123vbm10",
@@ -148,7 +157,8 @@
             "amount":0,
             "unit":"cash"
          },
-         "total_charge":0
+         "total_charge":0,
+         "total_amount":0,
       }
    ],
    "menu-items":[
