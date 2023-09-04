@@ -161,96 +161,103 @@
          "total_amount":0
       }
    ],
+   "available_categories":[
+      "starter",
+      "indian",
+      "chinese",
+      "italian",
+      "mexican"
+   ],
    "menu-items":[
       {
          "id":"1001",
          "itemName":"Paneer Tikka",
          "price":11.00,
-         "category":"STARTER"
+         "category":"starter"
       },
       {
          "id":"1002",
          "itemName":"Veg Cutlet",
          "price":12.50,
-         "category":"STARTER"
+         "category":"starter"
       },
       {
          "id":"1003",
          "itemName":"Dahi Vada",
          "price":13.03,
-         "category":"STARTER"
+         "category":"starter"
       },
       {
          "id":"1004",
          "itemName":"Rava Dhokla",
          "price":21.50,
-         "category":"INDIAN"
+         "category":"indian"
       },
       {
          "id":"1005",
          "itemName":"Maddur Vada",
          "price":22.00,
-         "category":"INDIAN"
+         "category":"indian"
       },
       {
          "id":"1006",
          "itemName":"Raj Kachori",
          "price":23.03,
-         "category":"INDIAN"
+         "category":"indian"
       },
       {
          "id":"1007",
          "itemName":"Chow Mein",
          "price":31.50,
-         "category":"CHINESE"
+         "category":"chinese"
       },
       {
          "id":"1008",
          "itemName":"Dumplings",
          "price":32.03,
-         "category":"CHINESE"
+         "category":"chinese"
       },
       {
          "id":"1009",
          "itemName":"Fried Rice",
          "price":33.00,
-         "category":"CHINESE"
+         "category":"chinese"
       },
       {
          "id":"10010",
          "itemName":"Polenta",
          "price":41.50,
-         "category":"ITALIAN"
+         "category":"italian"
       },
       {
          "id":"10011",
          "itemName":"Lasagna",
          "price":42.03,
-         "category":"ITALIAN"
+         "category":"italian"
       },
       {
          "id":"10012",
          "itemName":"Ravioli",
          "price":43.03,
-         "category":"ITALIAN"
+         "category":"italian"
       },
       {
          "id":"10013",
          "itemName":"Pozole",
          "price":51.50,
-         "category":"MEXICAN"
+         "category":"mexican"
       },
       {
          "id":"10014",
          "itemName":"Elote",
          "price":52.03,
-         "category":"MEXICAN"
+         "category":"mexican"
       },
       {
          "id":"10015",
          "itemName":"Mole",
          "price":53.03,
-         "category":"MEXICAN"
+         "category":"mexican"
       }
    ]
 }
