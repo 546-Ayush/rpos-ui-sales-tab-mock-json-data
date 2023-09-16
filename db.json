@@ -13,6 +13,7 @@
             "amount":0,
             "unit":""
          },
+         "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -29,6 +30,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -45,6 +47,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -61,6 +64,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -77,6 +81,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -93,6 +98,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -109,6 +115,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -125,6 +132,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -141,6 +149,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       },
@@ -157,6 +166,7 @@
             "amount":0,
             "unit":""
          },
+          "additional_charge": [],
          "total_charge":0,
          "total_amount":0
       }
